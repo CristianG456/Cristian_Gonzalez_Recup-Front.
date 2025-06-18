@@ -66,8 +66,9 @@ body {
   position: relative;
   width: 100%;
   height: 50px;
-  background-color: #002a5c; 
+  background-color: #FFA988; 
   overflow: hidden;
+  color: black;
 }
 
 
@@ -79,7 +80,7 @@ body {
   width: 0;
   height: 0;
   border-top: 100px solid transparent;
-  border-right: 100px solid #7cb3f4;
+  border-right: 100px solid #fff;
 }
 body {
   background-color: #fff;
@@ -118,7 +119,7 @@ body {
 
 
 .seccion-logo {
-  background-color: #7cb3f4; 
+  background-color: #FFA988; 
   position: relative;
   padding: 20px 40px;
   overflow: hidden;
