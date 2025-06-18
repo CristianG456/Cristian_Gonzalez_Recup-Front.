@@ -52,8 +52,9 @@ body {
 
 .banner {
    /* center center /                               cover → centra la imagen y la hace cubrir todo el contenedor sin deformarse  */
-  background: url('../img/floristeria.webp') no-repeat center center / cover ; 
-  min-height: 68vh; 
+  background: url('../img/floreria-de-primer-plano-con-frasco-con-flores.jpg') no-repeat center center / cover ; 
+  min-height: 100%; 
+
 }
 
 .banner h6 {
