@@ -1,6 +1,13 @@
 
 
 body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+.body2{
+   overflow: auto;
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', sans-serif;
@@ -154,6 +161,10 @@ body {
   font-size: 24px;
   font-weight: bold;
   color: #0a264a; 
+}
+
+.logo-banner{
+  width: 400px;
 }
 
 
