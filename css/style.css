@@ -94,6 +94,7 @@ body {
   background-color: #FFA988; 
   overflow: hidden;
   color: black;
+  clip-path: polygon(0 0, 100% 0, 90% 100%, 0 100%);
 }
 
 
@@ -146,8 +147,9 @@ body {
 .seccion-logo {
   background-color: #FFA988; 
   position: relative;
-  padding: 20px 40px;
+  padding: 7px 20px;
   overflow: hidden;
+  clip-path: polygon(0 0, 100% 0, 77% 100%, 0 100%);
 }
 
 
